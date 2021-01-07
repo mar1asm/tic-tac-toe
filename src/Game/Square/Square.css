@@ -1,0 +1,13 @@
+.Square{
+    height: 150px;
+    width: 150px;
+    background-color: #dad8d8;
+    border: 1px solid black;
+    justify-content: center;
+}
+
+.Square div{
+    font-size: 6rem;
+    font-weight: bold;
+    
+}
